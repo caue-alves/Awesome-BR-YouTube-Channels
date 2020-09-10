@@ -54,3 +54,4 @@
 
 # PHP
 - [Dias de Dev](https://www.youtube.com/channel/UCg1nJKjie4vb8FILBbv3F6A) - Conceitos e peculiaridades do PHP
+- [UpInside](https://www.youtube.com/c/upinside/videos) - Podcasts e vídeos sobre PHP e seus Frameworks
