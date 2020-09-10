@@ -7,7 +7,7 @@
 - [Hacking](#machine-leraning-e-algoritmos)
 - [Desenvolvimento de Jogos](#desenvolvimento-de-jogos)
 - [Reviews de Hardware](#reviews-de-hardware)
-- [Negócios e Agile Thinking](#negocios-e-agile-thinking)
+- [Negócios e Agile Thinking](#negócios-e-agile-thinking)
 - [Front End](#front-end)
 - [PHP](#php)
 - [Python](#python)
